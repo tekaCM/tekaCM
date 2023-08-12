@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tekaCM
+- 👀 I’m interested in backend coding
+- 🌱 I’m currently learning Vue.JS (frontend coding)
+- 📫 You can contact me on Discord under **sahlokniir12** or on Telegram **quick069**.
