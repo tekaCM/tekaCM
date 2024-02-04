@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @tekaCM
-- 👀 I’m interested in backend coding with the RAGE:MP framework.
 - 📫 You can contact me on Telegram under **shabab1337**
